@@ -75,7 +75,7 @@ Diwani is a mobile application built to protect and transmit Algerian visual cul
 | ![Abderrahmane](https://github.com/abderrahmaneosmani.png?size=40) | Abderrahmane Osmani | [@abderrahmaneosmani](https://github.com/abderrahmaneosmani) |
 | ![Member 2](https://github.com/61j3t.png?size=40) | Member 2 | [@61j3t](https://github.com/61j3t) |
 | ![Asma](https://github.com/asmaAouadi.png?size=40) | Asma Aouadi | [@asmaAouadi](https://github.com/asmaAouadi) |
-| ![Member 4](https://github.com/zetoo007.png?size=40) | Member 4 | [@zetoo007](https://github.com/zetoo007) |
+| ![Member 4](https://github.com/zetoo007.png?size=10) | Member 4 | [@zetoo007](https://github.com/zetoo007) |
 
 ---
 
