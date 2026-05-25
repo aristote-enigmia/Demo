@@ -1,6 +1,7 @@
 # ENIGMIA HACKATHON 2026
 
-![ENIGMIA 2026](https://github.com/user-attachments/assets/c9050819-7b4f-44d6-bb78-ef8725456ee9)
+<img width="876" height="417" alt="image" src="https://github.com/user-attachments/assets/a276527a-263d-47c6-84ac-beac83988288" />
+
 
 Built during **ENIGMIA 2026**, a 48-hour hackathon challenging teams to build solutions that help culture coexist with AI rather than be consumed by it.
 
@@ -18,7 +19,7 @@ Diwani is a mobile application built to protect and transmit Algerian visual cul
 
 ![Diwani Demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJlajB4YWVqM2t2Ymh0bnA1ZHdnN3FkZTdobmNzOXd0ejh1cXF5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1PNLR4o35cl8LESdL/giphy.gif)
 
-![Feature Showcase](https://github.com/user-attachments/assets/8b53a0cb-7e79-4757-9a25-daf8572bcb74)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f7bf20af-aa7c-4aac-a9bb-c6fb977da582" />
 
 ---
 
