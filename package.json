@@ -1,0 +1,29 @@
+{
+  "name": "diwani",
+  "version": "1.0.0",
+  "description": "Protect and transmit Algerian visual culture",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^50.0.0",
+    "react": "^18.2.0",
+    "react-native": "0.73.0",
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/bottom-tabs": "^6.5.11",
+    "@supabase/supabase-js": "^2.38.4",
+    "@react-native-camera-roll/camera-roll": "^7.4.0",
+    "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.5",
+    "@types/react": "^18.2.37",
+    "@types/react-native": "^0.72.8",
+    "typescript": "^5.3.3"
+  }
+}
