@@ -70,12 +70,13 @@ Diwani is a mobile application built to protect and transmit Algerian visual cul
 
 **Artistote** — ENIGMIA 2026
 
-| Avatar | Name | GitHub |
+
+| | Name | GitHub |
 |---|---|---|
-| ![Abderrahmane](https://github.com/abderrahmaneosmani.png?size=40) | Abderrahmane Osmani | [@abderrahmaneosmani](https://github.com/abderrahmaneosmani) |
-| ![Member 2](https://github.com/61j3t.png?size=40) | Member 2 | [@61j3t](https://github.com/61j3t) |
-| ![Asma](https://github.com/asmaAouadi.png?size=40) | Asma Aouadi | [@asmaAouadi](https://github.com/asmaAouadi) |
-| ![Member 4](https://github.com/zetoo007.png?size=10) | Member 4 | [@zetoo007](https://github.com/zetoo007) |
+| <img src="https://github.com/abderrahmaneosmani.png" width="40" height="40" style="border-radius:50%"/> | Abderrahmane Osmani | [@abderrahmaneosmani](https://github.com/abderrahmaneosmani) |
+| <img src="https://github.com/61j3t.png" width="40" height="40" style="border-radius:50%"/> | Member 2 | [@61j3t](https://github.com/61j3t) |
+| <img src="https://github.com/asmaAouadi.png" width="40" height="40" style="border-radius:50%"/> | Asma Aouadi | [@asmaAouadi](https://github.com/asmaAouadi) |
+| <img src="https://github.com/zetoo007.png" width="40" height="40" style="border-radius:50%"/> | Member 4 | [@zetoo007](https://github.com/zetoo007) |
 
 ---
 
